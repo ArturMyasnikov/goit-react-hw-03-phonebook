@@ -1,0 +1,10 @@
+.item {
+  display: flex;
+  align-items: center;
+}
+.btn__delete {
+  justify-content: center;
+  margin-left: 10px;
+  height: 20px;
+  background-color: darkgray;
+}
